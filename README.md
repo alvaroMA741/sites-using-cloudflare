@@ -109,6 +109,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [technicpack.net](http://technicpack.net)
 - [cloudflare.com](http://cloudflare.com)
 - [blockchain.info](http://blockchain.info)
+- [rockalyrics.com](http://www.rockalyrics.com)
 - [discordapp.com](http://discordapp.com) ([affected](https://blog.discordapp.com/safety-jim-psa-cloudflare-security-issue-77a4ecc48298))
 - [digitalocean.com](https://digitalocean.com) ([no leaked data found in several search engine caches](https://www.digitalocean.com/company/blog/digitalocean-your-data-and-the-cloudflare-vulnerability/))
 - [namecheap.com](http://namecheap.com) ([no leaked data found in several search engine caches](https://status.namecheap.com/archives/30660))
